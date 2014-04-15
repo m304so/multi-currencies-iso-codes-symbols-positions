@@ -75,7 +75,7 @@ VALUES
 ('PLN','zł','Z&#322;','before',''),
 ('QAR','QAR','&#65020;','after','Unsure if this is correct'),
 ('RON','lei','lei','before',''),
-('RUB','руб.','&#1088;&#1091;&#1073;','before',''),
+('RUB','руб.','&#1088;&#1091;&#1073;','after',''),
 ('SAR','SAR','&#65020;','after','Unsure if this is correct'),
 ('SEK','kr','kr','before',''),
 ('SGD','$','&#36;','before',''),
