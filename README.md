@@ -5,8 +5,4 @@ After searching around looking for a list of currencies, their ISO codes, symbol
 
 I couldn't find all the HTML codes and therefore I have created a column with comments.
 
-Please contact me if you have issues or updates
-
-Gregor McKelvie - gregor@goldhawklabs.com / www.buildtracks.com
-
 Free to use
